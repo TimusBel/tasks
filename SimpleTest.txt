@@ -1,7 +1,8 @@
-!
 ! Title: Rules for simple rules tests
-!
-! Filter to be used for testing purposes
-! https://github.com/TimusBel/tasks/blob/main/SimpleTest.txt
-!
+! Description: Rules for simple rules tests.
+! Version: 2.0.56.88
+! TimeUpdated: 2021-07-28T12:30:50+00:00
+! Expires: 7 days (update frequency)
+! Homepage: https://github.com/TimusBel/tasks/blob/main/SimpleTest.txt
+! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
 ||lenta.ru^
