@@ -5,5 +5,5 @@
 ! https://testcases.adguard.com
 !
 ! Hide warning
-!#include /TimusBel/tasks/main/included.txt
+!#include /TimusBel/tasks/main/IncludedFile.txt
 ||lenta.ru^
