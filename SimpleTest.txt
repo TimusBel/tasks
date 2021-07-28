@@ -1,1 +1,7 @@
+!
+! Title: Rules for simple rules tests
+!
+! Filter to be used for testing purposes
+! https://github.com/TimusBel/tasks/blob/main/SimpleTest.txt
+!
 ||lenta.ru^
