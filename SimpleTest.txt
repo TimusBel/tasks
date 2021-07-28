@@ -5,5 +5,5 @@
 ! https://testcases.adguard.com
 !
 ! Hide warning
-testcases.adguard.com,surge.sh###subscribe-to-test-simple-rules-filter
+!#include /TimusBel/tasks/main/included.txt
 ||lenta.ru^

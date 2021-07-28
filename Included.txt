@@ -1,0 +1,9 @@
+!
+! Title: Included rules for simple rules tests
+!
+! Filter to be used for testing purposes
+! https://testcases.adguard.com
+!
+! Hide warning
+testcases.adguard.com,surge.sh###subscribe-to-test-simple-rules-filter
+||meduza.io^
